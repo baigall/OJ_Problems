@@ -1,6 +1,6 @@
 ﻿# 聚合HDU POJ 学校oj的题
 
-### HDU: 3
+### HDU: 4
 
 ### POJ: 4
 
