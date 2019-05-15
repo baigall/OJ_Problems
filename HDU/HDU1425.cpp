@@ -1,3 +1,33 @@
+/*
+
+sort
+
+Problem Description
+
+给你n个整数，请按从大到小的顺序输出其中前m大的数。
+ 
+
+Input
+
+每组测试数据有两行，第一行有两个数n,m(0<n,m<1000000)，第二行包含n个各不相同，且都处于区间[-500000,500000]的整数。
+ 
+
+Output
+
+对每组测试数据按从大到小的顺序输出前m大的数。
+ 
+
+Sample Input
+5 3
+3 -35 92 213 -644
+ 
+
+Sample Output
+213 92 3
+
+Hint
+请用VC/VC++提交
+*/
 /* ************* 超时代码  **************
 #include <algorithm>
 #include <iostream>
