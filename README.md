@@ -6,7 +6,7 @@
 
 ### IMNU: 1
 
-### PTA: 2
+### PTA/TianTi: 2
 
 ### VJudge: 17
 
