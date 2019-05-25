@@ -8,6 +8,6 @@
 
 ### PTA/TianTi: 2
 
-### VJudge: 17
+### VJudge: 28
 
 ### EOJ: 9
