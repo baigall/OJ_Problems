@@ -1,13 +1,13 @@
 ﻿# 聚合HDU POJ 学校oj的题
 
-### HDU: 18
+### HDU: 54 
 
-### POJ: 4
+### POJ: 5 
 
 ### IMNU: 1
 
 ### PTA/TianTi: 2
 
-### VJudge: 28
+### VJudge: 15 
 
-### EOJ: 9
+### EOJ: 10 
